@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\bin\Debug\netcoreapp3.1\Lab_1_HelloWorld.exe
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\bin\Debug\netcoreapp3.1\Lab_1_HelloWorld.deps.json
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\bin\Debug\netcoreapp3.1\Lab_1_HelloWorld.runtimeconfig.json
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\bin\Debug\netcoreapp3.1\Lab_1_HelloWorld.runtimeconfig.dev.json
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\bin\Debug\netcoreapp3.1\Lab_1_HelloWorld.dll
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\bin\Debug\netcoreapp3.1\Lab_1_HelloWorld.pdb
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\obj\Debug\netcoreapp3.1\Lab_1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\obj\Debug\netcoreapp3.1\Lab_1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\obj\Debug\netcoreapp3.1\Lab_1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\obj\Debug\netcoreapp3.1\Lab_1_HelloWorld.AssemblyInfo.cs
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\obj\Debug\netcoreapp3.1\Lab_1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\obj\Debug\netcoreapp3.1\Lab_1_HelloWorld.dll
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\obj\Debug\netcoreapp3.1\Lab_1_HelloWorld.pdb
+C:\Users\user1\source\repos\LAB-1\Lab_1_HelloWorld\obj\Debug\netcoreapp3.1\Lab_1_HelloWorld.genruntimeconfig.cache
